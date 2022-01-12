@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">people_counter</string>
+    <string name="hint">0</string>
+    <string name="add_sign">+</string>
+    <string name="sub_sign">-</string>
+    <string name="max_limit">Max Limit</string>
+    <string name="save">Save</string>
+</resources>
